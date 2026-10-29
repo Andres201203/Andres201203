@@ -92,5 +92,4 @@ Salesforce · Meta APIs · Git/CI-CD
 
 ## Contact
 
-- **Email:** andresescobedolara@gmail.com
 - **LinkedIn:** [andres-escobedo-lara](https://linkedin.com/in/andres-escobedo-lara)
